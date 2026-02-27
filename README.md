@@ -4,14 +4,12 @@ A blockchain-based lost and found system for public transport networks including
 
 ## ✨ Features
 
-| Feature | Description |
-|---------|-------------|
-| 🔍 **Report Items** | Quick and easy form to report lost or found items |
-| ⛓️ **Blockchain Storage** | All reports stored immutably with SHA-256 hashing |
-| 📱 **QR Code Integration** | Scan vehicle QR codes to auto-fill report location |
-| 🎨 **Dark/Light Mode** | Toggle between themes for comfortable viewing |
-| 👑 **Admin Dashboard** | View all reports, vehicles, and blockchain status |
-| 🤖 **Smart Matching** | Automatically finds potential matches between lost and found items |
+- 🔍 **Report Items** - Quick and easy form to report lost or found items
+- ⛓️ **Blockchain Storage** - All reports stored immutably with SHA-256 hashing
+- 📱 **QR Code Integration** - Scan vehicle QR codes to auto-fill report location
+- 🎨 **Dark/Light Mode** - Toggle between themes for comfortable viewing
+- 👑 **Admin Dashboard** - View all reports, vehicles, and blockchain status
+- 🤖 **Smart Matching** - Automatically finds potential matches between lost and found items
 
 ## 🛠️ Tech Stack
 
