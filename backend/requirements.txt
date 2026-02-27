@@ -1,0 +1,7 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Pillow==10.0.0
+qrcode==7.4.2
+python-dotenv==1.0.0
+web3==6.5.0
+geopy==2.4.0
